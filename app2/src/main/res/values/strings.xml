@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Modulo2 Christian Quintero</string>
+    <string name="numer1">Primer Numero:</string>
+    <string name="numer2">Segundo Numero:</string>
+    <string name="resultado">Resultado</string>
+    <string name="Calcular">Calcular</string>
+    <string name="sumar">Suma</string>
+    <string name="restar">Resta</string>
+    <string name="multiplicar">Multiplicación</string>
+    <string name="dividir">Division</string>
+</resources>

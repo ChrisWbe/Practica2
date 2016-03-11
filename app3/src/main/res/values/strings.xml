@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Modulo3 Christian Quintero</string>
+    <string name="not">Calcula tu nota final</string>
+    <string name="q">Quices</string>
+    <string name="ex">Exposiciones</string>
+    <string name="pra">Practicas y Labs</string>
+    <string name="pro">Proyecto Final</string>
+    <string name="nota">Nota</string>
+    <string name="calcular">Calcular Nota</string>
+    <string name="defecto">0</string>
+</resources>

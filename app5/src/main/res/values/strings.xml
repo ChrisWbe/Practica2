@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Modulo5 Christian Quintero</string>
+    <string name="form">Formulario de Registro</string>
+    <string name="log">Loggin</string>
+    <string name="pas">Password</string>
+    <string name="rep">Repetir</string>
+    <string name="co">Email</string>
+    <string name="con">Contraseña</string>
+    <string name="se">Sexo</string>
+    <string name="m">Masculino</string>
+    <string name="f">Femenino</string>
+    <string name="fNac">Fecha de Nacimiento</string>
+    <string name="lNac">Lugar de nacimiento</string>
+    <string name="hob">Hobbyes</string>
+    <string name="vid">VideoJuegos</string>
+    <string name="depor">Deportes</string>
+    <string name="mus">Música</string>
+    <string name="dor">Dormir</string>
+    <string name="ac">Aceptar</string>
+    <string-array name="ciud">
+        <item>Bogotá</item>
+        <item>Medellín</item>
+        <item>Cali</item>
+        <item>Barranquilla</item>
+        <item>Cartagena</item>
+        <item>Cúcuta</item>
+        <item>Ibagué</item>
+        <item>Bucaramanga</item>
+        <item>Villavicencio</item>
+        <item>Santa Marta</item>
+        <item>Pereira</item>
+        <item>Valledupar</item>
+        <item>Montería</item>
+        <item>Pasto</item>
+        <item>Manizales</item>
+        <item>Neiva</item>
+        <item>Armenia</item>
+        <item>Popayán</item>
+        <item>Sincelejo</item>
+        <item>Riohacha</item>
+        <item>Tunja</item>
+        <item>Florencia</item>
+        <item>Yopal</item>
+        <item>Quibdó</item>
+        <item>Arauca</item>
+        <item>San Andrés</item>
+        <item>San José del Guaviare</item>
+
+    </string-array>
+
+
+</resources>
+

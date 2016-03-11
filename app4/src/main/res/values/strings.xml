@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Modulo4 Christian Quintero</string>
+    <string name="selecc">Selecciona la figura</string>
+    <string name="cuadrado">Cuadrado</string>
+    <string name="triangulo">Triangulo</string>
+    <string name="rectangulo">Rectángulo</string>
+    <string name="circulo">Circulo</string>
+    <string name="aCuadrado">Ingrese el lado del Cuadrado</string>
+    <string name="aTrinagulo">Ingrese la base y altura del Triangulo</string>
+    <string name="aRectangulo">Ingrese la base y la altura del Rectangulo</string>
+    <string name="aCirculo">Ingrese el radio del Circulo</string>
+    <string name="b">Base</string>
+    <string name="a">Altura</string>
+    <string name="r">Radio</string>
+    <string name="l">Lado</string>
+    <string name="cal">Calcular</string>
+    <string name="are">Areas</string>
+</resources>
